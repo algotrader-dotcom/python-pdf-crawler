@@ -2,8 +2,6 @@ python-pdf-crawler
 ==========
 
 Pdf crawler  script written in python 
-##
-prerequisite: BeautifulSoup <pip install BeautifulSoup> 
 
 #Using
 ##
@@ -18,10 +16,7 @@ prerequisite: BeautifulSoup <pip install BeautifulSoup>
 python-pdf-crawler.py temp http://www.autonlab.org/tutorials/
 
 #Screen Shot
-## sample
-##
-![sample](https://raw.github.com/huydx/pdfcrawler/master/readmeimg/sample.png)
 
 #Todo:
 ##
--Add function to display download progress
+
