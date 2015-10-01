@@ -2,6 +2,8 @@ python-pdf-crawler
 ==========
 
 Pdf crawler  script written in python 
+#Requirements
+pip install creepy
 
 #Using
 ##
